@@ -35,11 +35,6 @@
 
 <!-- wi*quL3fcV -->
 
-```javascript
-// Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
-```
 
 ⭐️ From [Farahhasnaoui](https://github.com/farahhasnaoui)
