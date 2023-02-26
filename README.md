@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm FARAH</h1>
-<h3 align="center">I'm a Web Developper</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 
 
