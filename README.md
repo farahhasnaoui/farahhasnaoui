@@ -1,1 +1,49 @@
 
+
+
+<h1 align="center">Hi 👋, I'm FARAH</h1>
+<h3 align="center">I'm a Web Developper</h3>
+
+
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farah.hasnaoui22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](/https://www.linkedin.com/in/farah-hasnaoui-184680214/)
+
+
+##### Languages I use
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
+##### Some of the technologies I have worked with
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="20" height="20"/><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/></p><p align="center">
+
+<!-- wi*quL3fcV -->
+
+```javascript
+// Which came first: the chicken or the egg?
+console.log(['🥚', '🐣', '🐥', '🐔'].sort())
+
+>>> [ '🐔', '🐣', '🐥', '🥚' ]
+```
+
+⭐️ From [Farahhasnaoui](https://github.com/farahhasnaoui)
