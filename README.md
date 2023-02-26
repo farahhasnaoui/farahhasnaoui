@@ -7,24 +7,7 @@
 
 &nbsp;
 
-## 👇 &nbsp;Current project
 
-I'm currently working on [@Tweetormator](https://twitter.com/tweetormator). A self-hosted solution for tweet scheduling and analytics aimed at home labs. It will be free and open source. Follow the [Twitter](https://twitter.com/tweetormator) feed to keep up with progress.
-
-![Tweetormator](/assets/tweetormator.jpg)
-
-&nbsp;
-
-## ✏️ &nbsp;Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Reverse engineering Reolink cameras for custom scenes and modes with Home Automation](https://cyris.io/blog/reverse-engineer-reolink)
-- [Reverse engineering a private API with MITM Proxy](https://cyris.io/blog/reverse-engineer-api-copy)
-- [Generating dynamic images on the fly for Email Marketing](https://cyris.io/blog/canvas-image-generation)
-- [Use Twitter to find developer friends near you](https://cyris.io/blog/find-developer-friends)
-<!-- BLOG-POST-LIST:END -->
-
-&nbsp;
 
 ## 🧰 &nbsp;My toolbox
 
